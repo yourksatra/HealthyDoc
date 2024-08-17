@@ -1,0 +1,21 @@
+table{
+    position: relative;
+    display: flexbox;
+    margin-top: 2rem;
+}
+table th td{
+    width: auto;
+    height: auto;
+}
+.size{
+    width: 10rem;
+    font-size: small;
+}
+.alpa{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.beta{ 
+    position: relative;
+    margin: 1rem calc(180rem/20);
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,200&display=swap');
+:root{
+    --main--color:#003af8;
+    --biru:#3c90ff;
+    --bg:#ffffff;
+}
+section {
+    display: block;
+}
+.bg{
+    background-color: var(--biru);
+}
+.card{
+    position: relative;
+    margin: 1rem calc(180rem/20);
+}
